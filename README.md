@@ -1,4 +1,4 @@
-# Oi, eu sou o Ian 👋
+# Oi, eu sou o Ian
 
 Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR, em Fortaleza. Uso IA para construir soluções de ponta a ponta: escrevo os prompts, coordeno agentes em paralelo e **meço o que eles entregam contra um gabarito**, corrigindo a partir dos erros.
 
